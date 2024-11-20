@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+.product_tittle{
+    color:green
+
+}
+
+.product_text{
+    color:red
+}
+
+#product_img{
+    width: 500px;
+}
